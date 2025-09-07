@@ -1,9 +1,5 @@
-Requirements for this project
+asgiref==3.9.1
+Django==5.2.6
+sqlparse==0.5.3
 
-The following are the prerequisites:
-
-Familiarity with Django and Django REST Framework.
-Knowledge of MySQL and database management.
-Understanding of version control using Git.
-A basic grasp of environment variable management using django-environ.
 
