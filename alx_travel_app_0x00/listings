@@ -7,7 +7,7 @@ Dependency Management:
 
 Install essential packages:
 django: Core framework for application development.
-djangorestframework: REST API development.
+djangorestfgit ramework: REST API development.
 django-cors-headers: Cross-Origin Resource Sharing setup.
 drf-yasg: Swagger API documentation.
 celery and rabbitmq: For future task queuing and background processes.
